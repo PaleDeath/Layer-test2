@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Layer-test",
+    "id": "65c4f46d3275fd69b5cfff45",
+    "framework": "react-nextjs",
+    "typescript": true,
+    "styling": "Tailwind",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\taseen\\Documents\\Layer3\\src\\components",
+    "screensPath": "c:\\Users\\taseen\\Documents\\Layer3\\src\\pages"
+  }
+}
